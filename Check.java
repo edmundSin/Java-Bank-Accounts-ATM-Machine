@@ -1,9 +1,7 @@
 /* Edmund Sin 
- * CISC 3115
- * Professor Ziegler
- * 11/24/19
- * HW 7: Bank Accounts  Using Inheritance, Polymorphism, AbstractClasses and Methods 
+ * Bank Accounts  Using Inheritance, Polymorphism, AbstractClasses and Methods 
  */
+
 import java.util.Calendar;
 import java.util.*;
 import java.text.DateFormat;  
