@@ -24,17 +24,17 @@ Inside the file: *type of transaction, account number, transaction amount* \
 (different transactions will have more/less input arguments)
 
 ### Editing Test Cases
-In "mytestcases4.txt" enter the corresponding letter of the transaction you wish to make, followed by a space and the listed parameters(each separated by a speace). 
-Examples of sample test cases can be found in "mytestcases4.txt".
-
-Q - quit and print all accounts info
-W - withdrawal (account number, amount)
-D - deposit (account number, amount)
-C - clear check (M/DD/YYYY, amount)
-N - new account (account number, last name, first name, SSN, account type, initial amount,  deposit)
-S - close account (account number)
-R - reopen account (account number)
-X - delete account (account number)
-B - balance (account number)
-I - account info (SSN)
-H - account history (SSN, account number)
+In "mytestcases4.txt" enter the corresponding letter of the transaction you wish to make, followed by a space and the listed parameters(each separated by a space). \
+Examples of sample test cases can be found in "mytestcases4.txt". \
+\
+Q - quit and print all accounts info \
+W - withdrawal (account number, amount)\
+D - deposit (account number, amount)\
+C - clear check (M/DD/YYYY, amount)\
+N - new account (account number, last name, first name, SSN, account type, initial amount,  deposit)\
+S - close account (account number)\
+R - reopen account (account number)\
+X - delete account (account number)\
+B - balance (account number)\
+I - account info (SSN)\
+H - account history (SSN, account number)\
