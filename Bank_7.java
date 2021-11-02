@@ -246,9 +246,13 @@ public static void printAccts(PrintWriter outFile, Bank bank)
      System.out.println("\t****************************");
      System.out.println("\t     W -- Withdrawal");
      System.out.println("\t     D -- Deposit");
+     System.out.println("\t     C -- Clear Check");
      System.out.println("\t     N -- New Account");
+     System.out.println("\t     S -- Close Account");
+     System.out.println("\t     R -- Reopen Account");
      System.out.println("\t     B -- Balance Inquiry");
      System.out.println("\t     I -- Account Info");
+     System.out.println("\t     H -- Account History");
      System.out.println("\t     X -- Delete Account");
      System.out.println("\t     Q -- Quit");
      System.out.println();
