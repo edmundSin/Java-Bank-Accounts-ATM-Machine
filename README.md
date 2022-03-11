@@ -1,7 +1,7 @@
 # Java-Bank-Accounts-ATM-Machine
 
 ### About
-This is a Java personal project that I've written in its entirety, to put into practice and successfully excecute all of the Java concepts I've learned at Brooklyn College.   \
+This is a Java project that I've written in its entirety, to put into practice and successfully excecute all of the Java concepts I've learned at Brooklyn College.   \
 It's purpose is to resemble a fully functional ATM Machine using sample data of individuals bank accounts. \
 Users will be able to make numerous types of transactions including: \
 *Withdrawals, Deposits, Checking, Clear Checks, Create/Close/Delete Accounts, Balance Inquiries, Account Info, Transaction History, and more!* 
