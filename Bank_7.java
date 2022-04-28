@@ -18,8 +18,13 @@ public static void main (String args[])throws IOException{
   Bank bank = new Bank();
   int count = 0;
          
-  File testFile = new File("mytestcases4.txt");
-  Scanner kybd = new Scanner(testFile);
+  //un-comment these 2 lines to use a list of test cases instead of user input
+  //File testFile = new File("mytestcases4.txt");
+  //Scanner kybd = new Scanner(testFile);
+
+  //Comment out this following line to use list of test cases instead of user input
+  Scanner kybd = new Scanner(System.in);
+  
   PrintWriter outFile = new PrintWriter("myoutput.txt");
   
   //read in totals using readDataTotals method in Bank class
